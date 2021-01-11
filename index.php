@@ -17,11 +17,12 @@
        hello wolee <br>
     <img src="img/profile.jpg" width="200px" alt="" srcset=""> <hr>
         <button class="btn btn-primary"> กดดู </button>
+        <button class="btn btn-primary"> กดอีก </button>
     </div>
  
     <script>
         $(()=>{
-            alert("Hello");
+            //alert("Hello");
         });
     </script>
 </body>
